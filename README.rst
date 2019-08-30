@@ -1,3 +1,5 @@
+I made my fork from dnouri and kept the ReadMe as it is.
+=========================================================
 This is my fork of the ``cuda-convnet`` convolutional neural network
 implementation written by Alex Krizhevsky.
 
